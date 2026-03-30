@@ -1,0 +1,4 @@
+noticia1.png
+noticia2.png
+noticia3.jpg
+noticia4.png
